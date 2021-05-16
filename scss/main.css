@@ -7846,7 +7846,7 @@ body {
   font-weight: 200; }
 
 #mainCar {
-  max-width: 600px; }
+  width: 100%; }
 
 .carousel-caption {
   font-family: "Tahoma",sans-serif;
@@ -7861,8 +7861,5 @@ body {
 @media (max-width: 900px) {
   #home h1 {
     font-size: 4rem; } }
-@media (min-width: 1400px) {
-  #mainCar {
-    max-width: 40%; } }
 
 /*# sourceMappingURL=main.css.map */
